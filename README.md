@@ -8,8 +8,7 @@ In order to train a custom face mask detector, I break this project into two dis
 
 ## COVID-19 face mask detection dataset
 
-![dataset](./data1.png)
+![dataset](./data1.png)             ![dataset](./data2.png)
 
-![dataset](./data2.png)
 
 The dataset I’ll be using here was created by <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655711815361761280/" target="_blank">Prajna Bhandary</a>.
