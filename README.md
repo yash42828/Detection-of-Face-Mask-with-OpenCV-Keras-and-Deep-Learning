@@ -73,7 +73,7 @@ Therefore, if a large portion of the face is occluded, our face detector will li
 
 ![gif](./NoMask.gif)
 
-## For any Query contact me:
+## For any query contact me:
 <a href = "https://www.linkedin.com/in/yash-bajaj-a50013123/"><h5>LinkedIn</h5></a>
 
 <b>Email:</b> bajajyash42828@gmail.com
