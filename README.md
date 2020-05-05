@@ -45,14 +45,17 @@ The dataset I’ll be using here was created by <a href="https://www.linkedin.co
 ## Screenshots:
 
 ![image](./Output/detected1.jpg)
+
 As you can see, our face mask detector correctly labeled this image as Mask.
 
 
 ![image](./Output/detected2.jpg)
+
 Our face mask detector has correctly predicted No Mask.
 
 
 ![image](./Output/detected3.jpg)
+
 What happened here?
 
 Why is it that we were able to detect the faces of the two gentlemen in the background and correctly classify mask/no mask for them, but we could not detect the woman in the foreground?
@@ -66,7 +69,7 @@ Therefore, if a large portion of the face is occluded, our face detector will li
 
 ![gif](./Mask.gif)
 
-![gif](./No Mask.gif)
+![gif](./NoMask.gif)
 
 Just follow☝️ me and Star⭐ my repository
 
