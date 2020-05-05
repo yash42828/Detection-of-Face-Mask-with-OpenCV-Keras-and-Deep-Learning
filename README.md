@@ -63,8 +63,10 @@ Keep in mind that in order to classify whether or not a person is wearing in mas
 
 ### The reason we cannot detect the face in the foreground is because:
 
-It’s too obscured by the mask
-The dataset used to train the face detector did not contain example images of people wearing face masks
+- It’s too obscured by the mask
+
+- The dataset used to train the face detector did not contain example images of people wearing face masks
+
 Therefore, if a large portion of the face is occluded, our face detector will likely fail to detect the face.
 
 ![gif](./Mask.gif)
